@@ -1,7 +1,3 @@
-
-//https://github.com/asksensors/AskSensors-ESP32-API/blob/master/http_get.ino
-//https://www.instructables.com/How-to-Connect-an-ESP32-to-the-IoT-Cloud/
-
 #include "Arduino.h"
 #include <WiFi.h>
 #include <WiFiMulti.h>
